@@ -1,6 +1,6 @@
 # Visary
 
-Visary is a tool made by **rezizt** and leaked by me.
+Visary is a tool made by **rezizt** and leaked by [Ignacio](https://github.com/k6d).
 
 ## Installation
 
@@ -24,10 +24,10 @@ banning me from your server will be useless.
 
  Visary is a skid of [JA JA JA](https://github.com/azaelgg/Jajaja-Account-Nuker)
 
-Proofs:
+Proof:
 
 <img src="https://roblox.is-terrible.com/XFt2Z0.png"/>
 
 ## Discord
 
-[$ rip.k0dy#0006](https://discord.com/users/249992678740066304)
+Syz#0001
